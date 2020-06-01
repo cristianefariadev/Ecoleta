@@ -38,9 +38,9 @@ This project was developed with the following technologies:
 
 Acesse a pasta de cada projeto:
 
-- [Backend](https://nodejs.org/en/)
-- [Reactjs](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
+- [Backend](https://github.com/cristianefariadev/Ecoleta/tree/master/server)
+- [Reactjs](https://github.com/cristianefariadev/Ecoleta/tree/master/web)
+- [React Native](https://github.com/cristianefariadev/Ecoleta/tree/master/mobile)
 
 ## :memo: Licença
 
