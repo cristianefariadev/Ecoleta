@@ -7,8 +7,6 @@
 <p align="center">Seu marketplace de coleta de resíduos.  :recycle:</p>
 
 <p align="center">
-
-<p align="center">
   <a href="#" style="text-decoration: none">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/cristianefariadev/ecoleta?color=34CB79" />
   </a>
@@ -16,15 +14,10 @@
   <a href="LICENSE" style="text-decoration: none">
     <img alt="License" src="https://img.shields.io/github/license/cristianefariadev/ecoleta?color=34CB79" />
   </a>
-
   
   <a href="https://github.com/cristainefariadev/ecoleta/stargazers" style="text-decoration: none">
     <img alt="Stars" src="https://img.shields.io/github/stars/cristianefariadev/ecoleta?style=social" />
   </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-191A1E">
-
-  <img alt="License" src="https://img.shields.io/badge/status-developer-brightgreen">
 
 </p>
 
