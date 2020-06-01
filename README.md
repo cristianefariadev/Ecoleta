@@ -39,8 +39,8 @@ This project was developed with the following technologies:
 Acesse a pasta de cada projeto:
 
 - [Backend](https://github.com/cristianefariadev/Ecoleta/tree/master/server)
-- [Reactjs](https://github.com/cristianefariadev/Ecoleta/tree/master/web)
-- [React Native](https://github.com/cristianefariadev/Ecoleta/tree/master/mobile)
+- [Web](https://github.com/cristianefariadev/Ecoleta/tree/master/web)
+- [Mobile](https://github.com/cristianefariadev/Ecoleta/tree/master/mobile)
 
 ## :memo: Licença
 
