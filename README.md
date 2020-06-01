@@ -1,5 +1,13 @@
 <img alt="Ecoleta - Seu Marketplace de coleta de resíduos" title="Ecoleta - Seu Marketplace de coleta de resíduos" src="assets/ecoleta.png" />
 
+<h1 align="center">
+  Ecoleta
+</h1>
+
+<p align="center">Seu marketplace de coleta de resíduos.  :recycle:</p>
+
+<p align="center">
+
 <p align="center">
   <a href="#" style="text-decoration: none">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/cristianefariadev/ecoleta?color=34CB79" />
@@ -18,24 +26,6 @@
 
   <img alt="License" src="https://img.shields.io/badge/status-developer-brightgreen">
 
-</p>
-
-<h1 align="center">
-  Ecoleta
-</h1>
-
-<p align="center">Seu marketplace de coleta de resíduos.  :recycle:</p>
-
-<p align="center">
-  
-
-  <a href="https://cristianefaria.com">
-    <img alt="Made by Cristiane Faria" src="https://img.shields.io/badge/Made%20by-Cristiane%20Faria-191A1E">
-  </a>
-
-  <a href="https://linkedin.com/in/cristianefariadev">
-    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-cristianefariadev-191A1E?style=social&logo=linkedin">
-  </a>
 </p>
 
 ## :rocket: O projeto
