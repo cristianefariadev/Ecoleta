@@ -1,10 +1,10 @@
-<img alt="Ecoleta - Seu Marketplace de coleta de resíduos" title="Ecoleta - Seu Marketplace de coleta de resíduos" src="assets/ecoleta.png" />
+<img alt="Ecoleta - Your waste collection marketplace" title="Ecoleta - Seu Marketplace de coleta de resíduos" src="assets/ecoleta.png" />
 
 <h1 align="center">
   Ecoleta
 </h1>
 
-<p align="center">Seu marketplace de coleta de resíduos.  :recycle:</p>
+<p align="center">Your waste collection marketplace.  :recycle:</p>
 
 <p align="center">
   <a href="#" style="text-decoration: none">
@@ -23,7 +23,7 @@
 
 ## :rocket: O projeto
 
-Ecoleta is a garbage collection management application, with this application garbage collection companies will be able to easily find places where garbage is deposited, and citizens will be able to share places where they have garbage deposited for responsible companies to come and collect.
+Ecoleta is a recycling collection management application, with this application the collection companies will be able to easily find places where recyclables are deposited, and citizens will be able to share the places where they were deposited for responsible companies to come and collect.
 
 
 ## 💻 Technologies
